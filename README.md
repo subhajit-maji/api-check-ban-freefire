@@ -1,4 +1,8 @@
 # API Documentation
+[![Stars](https://img.shields.io/github/stars/subhajit-maji/api-check-ban-freefire?style=flat-square)](https://github.com/subhajit-maji/api-check-ban-freefire/stargazers)
+[![Forks](https://img.shields.io/github/forks/subhajit-maji/api-check-ban-freefire?style=flat-square)](https://github.com/subhajit-maji/api-check-ban-freefire/network/members)
+[![Issues](https://img.shields.io/github/issues/subhajit-maji/api-check-ban-freefire?style=flat-square)](https://github.com/subhajit-maji/api-check-ban-freefire/issues)
+[![License](https://img.shields.io/github/license/subhajit-maji/api-check-ban-freefire?style=flat-square)](https://github.com/subhajit-maji/api-check-ban-freefire/blob/main/LICENSE)
 
 ## Description
 This API is used to check if a Free Fire account is banned or not. Designed for developers and community admins, it offers easy and quick integration to monitor the status of Free Fire accounts. Developed with FastAPI and deployed on Vercel, this API is powerful, reliable, and ready to use.
